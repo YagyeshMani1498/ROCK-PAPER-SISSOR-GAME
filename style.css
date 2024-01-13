@@ -193,11 +193,12 @@ body {
   border: none;
   position: absolute;
   cursor: pointer;
-  transition: all 0.5s;
+  transition: all 0.2s;
 }
 
 .btn:hover {
-  transform: scale(1.5);
+  padding: 3.2rem;
+  border-width: 1.2rem;
 }
 
 .rock {
